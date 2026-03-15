@@ -21,7 +21,7 @@ Criação de classes baseadas na atividade anterior de abstração, instanciando
 | `qtEstoque` | `int` |
 | `categoriaProduto` | `String` |
 
-**Métodos:** `venderProduto()`
+**Métodos:** `venderProduto()``excluirProduto()``consultarProduto()`
 
 ---
 
